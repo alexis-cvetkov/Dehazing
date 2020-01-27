@@ -2,8 +2,7 @@
 
 We implement in this notebook a simple U-net convolutional network for image dehazing with PyTorch.
 It has been developed during an academical project at the Institut d'Optique Graduate School (Palaiseau, France) and is based
-on this [online competition](https://competitions.codalab.org/competitions/21163) for the hazy and ground-truth (clear)
-image sets.
+on the NTIRE 2019 challenge for the hazy and ground-truth (clear) image sets.
 
 **Network architecture:**
 
